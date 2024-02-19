@@ -37,6 +37,6 @@ https://github.com/JMShultz/KeepTrack/assets/149431333/b80a2cd3-446a-4276-964a-2
   npm test
   
   ## Questions
-  
+  You can contact me through Linkedin: www.linkedin.com/in/josh-schulze-357346150
   
     
