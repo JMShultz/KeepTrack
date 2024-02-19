@@ -17,10 +17,6 @@
   
   ## Usage
 
-  [Link to app]( https://easynotes-9190f6d849c6.herokuapp.com/)
-
- 
-  
 
 https://github.com/JMShultz/KeepTrack/assets/149431333/b80a2cd3-446a-4276-964a-25681890be28
 
